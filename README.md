@@ -29,7 +29,12 @@ We need to look at the wireless interface configuration with iwconfig. Monitor m
 There is interface is being used for monitoring mon0
 And i go to google and search something about it. i found something intresting tool reaver
 
+![obraz](https://github.com/Anogota/Wifinetic/assets/143951834/de6659ee-59fb-433b-87e1-c3dd416fd8e5)
+
+we may see something wonderful there, there is a password, we have to check it now
+
 ![obraz](https://github.com/Anogota/Wifinetic/assets/143951834/31a550e9-b7dd-4c50-92d7-613e5097e4f9)
 
+And benk, I managed to log in as root, now you just need to see the root flag, that was also quite simple, just a little googling and you could find everything.
 
-![obraz](https://github.com/Anogota/Wifinetic/assets/143951834/de6659ee-59fb-433b-87e1-c3dd416fd8e5)
+![obraz](https://github.com/Anogota/Wifinetic/assets/143951834/3680dc95-e8c7-4fdc-811c-73d392074bc3)
