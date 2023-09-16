@@ -12,3 +12,24 @@ We can see there one intresting user, netadmin
 
 ![obraz](https://github.com/Anogota/Wifinetic/assets/143951834/fd6b0fc4-abbc-4740-b7f2-eee51aa7539e)
 
+And if you rember scan, one 22 are open this is a SSH, i tryed log in as: netadmin VeRyUniUqWiFIPasswrd1! 
+That how i think, we can login with this creds in SSH.
+
+![obraz](https://github.com/Anogota/Wifinetic/assets/143951834/6b5318d5-5384-442f-b344-b33758d07aa2)
+
+There is a flag, that was pretty easy, to get a user.txt 
+I did some recon, but can't find anything intresting, but when i check ps -ef
+
+![obraz](https://github.com/Anogota/Wifinetic/assets/143951834/cdda928e-3fd9-4b61-96bd-de97fc445ebe)
+
+We need to look at the wireless interface configuration with iwconfig. Monitor mode is used for sniffing traffic.
+
+![obraz](https://github.com/Anogota/Wifinetic/assets/143951834/e13c9468-503e-4e3b-ac2b-01df845009c6)
+
+There is interface is being used for monitoring mon0
+And i go to google and search something about it. i found something intresting tool reaver
+
+![obraz](https://github.com/Anogota/Wifinetic/assets/143951834/31a550e9-b7dd-4c50-92d7-613e5097e4f9)
+
+
+![obraz](https://github.com/Anogota/Wifinetic/assets/143951834/de6659ee-59fb-433b-87e1-c3dd416fd8e5)
